@@ -1,0 +1,4 @@
+c:\users\dimas nurmansyah\documents\visual studio 2010\Projects\Bilangan Fibbonaci\Bilangan Fibbonaci\bin\Debug\Bilangan Fibbonaci.exe
+c:\users\dimas nurmansyah\documents\visual studio 2010\Projects\Bilangan Fibbonaci\Bilangan Fibbonaci\bin\Debug\Bilangan Fibbonaci.pdb
+c:\users\dimas nurmansyah\documents\visual studio 2010\Projects\Bilangan Fibbonaci\Bilangan Fibbonaci\obj\x86\Debug\Bilangan Fibbonaci.exe
+c:\users\dimas nurmansyah\documents\visual studio 2010\Projects\Bilangan Fibbonaci\Bilangan Fibbonaci\obj\x86\Debug\Bilangan Fibbonaci.pdb

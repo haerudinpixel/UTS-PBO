@@ -1,0 +1,5 @@
+c:\users\dimas nurmansyah\documents\visual studio 2010\Projects\Bilangan Prima\Bilangan Prima\bin\Debug\Bilangan Prima.exe
+c:\users\dimas nurmansyah\documents\visual studio 2010\Projects\Bilangan Prima\Bilangan Prima\bin\Debug\Bilangan Prima.pdb
+c:\users\dimas nurmansyah\documents\visual studio 2010\Projects\Bilangan Prima\Bilangan Prima\obj\x86\Debug\Bilangan Prima.exe
+c:\users\dimas nurmansyah\documents\visual studio 2010\Projects\Bilangan Prima\Bilangan Prima\obj\x86\Debug\Bilangan Prima.pdb
+C:\Users\Dimas Nurmansyah\documents\visual studio 2010\Projects\Bilangan Prima\Bilangan Prima\obj\x86\Debug\Bilangan Prima.csprojResolveAssemblyReference.cache

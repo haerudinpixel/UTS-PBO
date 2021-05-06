@@ -1,0 +1,5 @@
+c:\users\dimas nurmansyah\documents\visual studio 2010\Projects\Desimal Ke Biner\Desimal Ke Biner\bin\Debug\Desimal Ke Biner.exe
+c:\users\dimas nurmansyah\documents\visual studio 2010\Projects\Desimal Ke Biner\Desimal Ke Biner\bin\Debug\Desimal Ke Biner.pdb
+c:\users\dimas nurmansyah\documents\visual studio 2010\Projects\Desimal Ke Biner\Desimal Ke Biner\obj\x86\Debug\Desimal Ke Biner.exe
+c:\users\dimas nurmansyah\documents\visual studio 2010\Projects\Desimal Ke Biner\Desimal Ke Biner\obj\x86\Debug\Desimal Ke Biner.pdb
+C:\Users\Dimas Nurmansyah\documents\visual studio 2010\Projects\Desimal Ke Biner\Desimal Ke Biner\obj\x86\Debug\Desimal Ke Biner.csprojResolveAssemblyReference.cache

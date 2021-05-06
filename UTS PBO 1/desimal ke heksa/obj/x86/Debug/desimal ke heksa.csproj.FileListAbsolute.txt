@@ -1,0 +1,4 @@
+c:\users\dimas nurmansyah\documents\visual studio 2010\Projects\desimal ke heksa\desimal ke heksa\bin\Debug\desimal ke heksa.exe
+c:\users\dimas nurmansyah\documents\visual studio 2010\Projects\desimal ke heksa\desimal ke heksa\bin\Debug\desimal ke heksa.pdb
+c:\users\dimas nurmansyah\documents\visual studio 2010\Projects\desimal ke heksa\desimal ke heksa\obj\x86\Debug\desimal ke heksa.exe
+c:\users\dimas nurmansyah\documents\visual studio 2010\Projects\desimal ke heksa\desimal ke heksa\obj\x86\Debug\desimal ke heksa.pdb
